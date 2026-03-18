@@ -1,5 +1,7 @@
 # ttsv2
 
+fast tts (ZH EN) lightweight
+
 ## Installation
 
 cuda >= 12.3.2
