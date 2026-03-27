@@ -8,6 +8,8 @@ https://voxflash.github.io/
 
 ![ttsv2](images/20260327-155944.png)
 
+http:127.0.0.1:8000/demo.html
+
 ## Installation
 
 cuda >= 12.3.2
