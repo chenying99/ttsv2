@@ -1,5 +1,7 @@
 # ttsv2
 
+业界推理速度最快的语音克隆系统，低端显卡，端侧部署
+
 fast tts (ZH EN) lightweight
 
 https://voxflash.github.io/
