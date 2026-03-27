@@ -6,6 +6,8 @@ fast tts (ZH EN) lightweight
 
 https://voxflash.github.io/
 
+![ttsv2](images/20260327-155944.png)
+
 ## Installation
 
 cuda >= 12.3.2
