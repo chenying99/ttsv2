@@ -1,3 +1,7 @@
+> ⚠️ **This repository has moved.**
+> VoxFlash-TTS is now maintained at **[https://github.com/VoxFlash/VoxFlashTTS](https://github.com/VoxFlash/VoxFlashTTS)**.
+> Please update your bookmarks and star the new repo. This repository is no longer actively maintained.
+
 # ttsv2
 
 业界推理速度最快的语音克隆系统，低端显卡，端侧部署
